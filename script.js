@@ -1,2 +1,2 @@
 //your JS code here. If required.
-alert(window.location.href)
+alert(window.location.search)
